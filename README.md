@@ -4,7 +4,7 @@
 <h3>you can view an example of how you can use this website <a href="https://youtu.be/IgCsDH9KOpA">Click Here</a></h3></h2> 
 <hr>
 <h1>Tech Used :</h1>
-<h3>PHP, LARAVEL Breeze, HTML5, CSS3, JAVASCRIPT, Bootstrap, MYSQL <h4>All Compiled on PhpStorm</h4></h3>
+<h3>PHP, LARAVEL Breeze, HTML5, CSS3, JAVASCRIPT, Bootstrap, MYSQL <h4>All Compiled on PhpStorm and served by XAMPP</h4></h3>
 <hr>
 <h1>Features : </h1>
 <ul>
@@ -14,7 +14,7 @@
         <ul><li>Only admin users has access to make changes to the menu or any reservations</li></ul><br>
     <li>admin access:</li>
         <ol> 
-            <li>Create, Edit and Delete any item from the menu and change any resevations<li>
+            <li>Create, Edit and Delete any item from the menu and change any resevations</li>
             <li>Upload images to any category and the image of the item in the menu</li>
             <li>Make any changes to the tables we have</li>
         </ol>
